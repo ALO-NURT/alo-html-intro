@@ -38,6 +38,7 @@ select, textarea */
 	padding: 10px;
 	display: block;
 	width: 95%;
+	background-color: #e6f3ff;
 }
 
 /* Styling form-control Radio 
